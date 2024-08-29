@@ -22,7 +22,7 @@ Luxeloom-Api is a web application that allows users to browse and purchase produ
 
 1. Clone the repository:
    ```
-   git clone https://github.com/zahidrahimoon/Redux.git
+   https://github.com/Malik7071/Redux-Learning.git
    ```
 2. Install dependencies:
    ```
